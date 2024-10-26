@@ -2,4 +2,4 @@
 
 # Contador de Calorias
 
-En este proyecto use useReducer para hacer mis hooks que manejan diferentes información
+En este proyecto use useReducer para hacer mis hooks que manejan diferente información.
